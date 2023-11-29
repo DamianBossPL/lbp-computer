@@ -1,3 +1,5 @@
+# PROJECT STILL IN DEVELOPMENT
+
 # Introduction
 
 This project is about an 8 bit programmable computer made in and for LittleBigPlanet 3. This creates many possiblities; it can perform actual computing and gives you the ability to code on a children's game on your PlayStation. _Yeah... crazy!_
