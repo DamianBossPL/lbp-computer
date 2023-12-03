@@ -15,6 +15,6 @@
 | JMP       | (address)  | 1010 | Sets Program Counter to (address)                                       |
 | JZ        | (address)  | 1011 | Sets Program Counter to (address) if last ALU operation resulted in a 0 |
 | SWB       | (bank)     | 1100 | Switches memory bank allowing for greater memory access                 |
-| RFP       | (none)     | 1101 | Reads from (port id) into Register A                                    |
-| WTP       | (none)     | 1110 | Outputs Register A to (port id)                                         |
+| RFP       | (none)     | 1101 | Reads from port into Register A                                         |
+| WTP       | (none)     | 1110 | Outputs Register A to port                                              |
 | HLT       | (none)     | 1111 | Stops the clock                                                         |
