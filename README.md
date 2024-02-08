@@ -1,4 +1,6 @@
 # PROJECT STILL IN DEVELOPMENT
+# Machine is complete
+# Currently working on level
 
 # Introduction
 
